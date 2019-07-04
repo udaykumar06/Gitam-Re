@@ -2,5 +2,8 @@ day 4 - git download and installation
 day 4 - github creation, push and pull operations
 day 4 - file creations and folder creations
 day 4 - basic commands of ubuntu operating systems
-new data
-test
+
+
+
+Gitam - Hyderabad
+git sessions to sync data from local computer to server computer
